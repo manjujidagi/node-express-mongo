@@ -1,4 +1,4 @@
-const { hashPassword } = require('../auth/auth.service');
+const { hashPassword } = require('../auth/auth.util');
 const User = require('./user.model');
 
 exports.createUser = async (payload) => {
