@@ -1,6 +1,6 @@
 {
   "name": "node-express",
-  "version": "1.0.02",
+  "version": "1.0.03",
   "scripts": {
     "start": "node src/main.js",
     "start:dev": "nodemon src/main.js",

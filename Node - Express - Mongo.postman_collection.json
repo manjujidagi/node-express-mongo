@@ -16,7 +16,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"username\": \"manjunath\",\n    \"password\": \"1234\"\n}",
+							"raw": "{\n    \"username\": \"superadmin\",\n    \"password\": \"superadmin\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -43,7 +43,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"username\": \"manjunath\",\n    \"password\": \"1234\",\n    \"first_name\": \"Hello\",\n    \"middle_name\": \"Heyy\",\n    \"last_name\": \"World\"\n}",
+							"raw": "{\n    \"username\": \"mj\",\n    \"password\": \"1234\",\n    \"first_name\": \"Hello\",\n    \"middle_name\": \"Heyy\",\n    \"last_name\": \"World\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
