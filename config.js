@@ -1,5 +1,5 @@
 module.exports = {
-    "version": "1.0.01",
+    "version": "1.0.02",
     "ROLES": {
         "SUPERADMIN": {
             "key": "superadmin"
